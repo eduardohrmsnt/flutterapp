@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926534573450",
+    "project_id": "ajudaeu-506a7",
+    "storage_bucket": "ajudaeu-506a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926534573450:android:dca8b1d1632b6b8321fc73",
+        "android_client_info": {
+          "package_name": "com.example.AjudaEu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926534573450-4g76de9pt552dee76b520o3pf73rq167.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBysfju8L2z9LA7YmNXebPgSecGK7Sx7fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926534573450-4g76de9pt552dee76b520o3pf73rq167.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
